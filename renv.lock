@@ -539,15 +539,13 @@
     },
     "pegboard": {
       "Package": "pegboard",
-      "Version": "0.5.1",
-      "Source": "GitHub",
-      "RemoteType": "github",
-      "RemoteHost": "api.github.com",
-      "RemoteUsername": "carpentries",
-      "RemoteRepo": "pegboard",
-      "RemoteRef": "main",
-      "RemoteSha": "f7cb787f7a18463375e7f8e3363c514007b64425",
+      "Version": "0.5.2",
+      "Source": "Repository",
+      "Repository": "https://carpentries.r-universe.dev",
       "Remotes": "ropensci/tinkr",
+      "RemoteUrl": "https://github.com/carpentries/pegboard",
+      "RemoteRef": "0.5.2",
+      "RemoteSha": "d19ac71c590ad9a56a8e5547be02c19663b4a5d6",
       "Requirements": [
         "R6",
         "commonmark",
@@ -559,7 +557,7 @@
         "xslt",
         "yaml"
       ],
-      "Hash": "2e33fe68f9761908c0c320ac196bcb40"
+      "Hash": "215688644a067c74df97597fc08459a4"
     },
     "pillar": {
       "Package": "pillar",
@@ -759,13 +757,13 @@
     },
     "sandpaper": {
       "Package": "sandpaper",
-      "Version": "0.11.13",
+      "Version": "0.11.15",
       "Source": "Repository",
       "Repository": "https://carpentries.r-universe.dev",
       "Remotes": "ropensci/tinkr, carpentries/pegboard, carpentries/varnish",
       "RemoteUrl": "https://github.com/carpentries/sandpaper",
-      "RemoteRef": "0.11.13",
-      "RemoteSha": "bd6c0b5bd195b32a93a78764e96d5230ee517542",
+      "RemoteRef": "0.11.15",
+      "RemoteSha": "3d088c7fe81191d665cb8a812aff737e5c1b145f",
       "Requirements": [
         "assertthat",
         "callr",
@@ -791,7 +789,7 @@
         "whisker",
         "yaml"
       ],
-      "Hash": "7b847e65a217e97e69c42dc7b03c5260"
+      "Hash": "73bc3206476c3dec358a9b7c85ae4bc1"
     },
     "sass": {
       "Package": "sass",
@@ -912,13 +910,8 @@
     "tinkr": {
       "Package": "tinkr",
       "Version": "0.2.0",
-      "Source": "GitHub",
-      "RemoteType": "github",
-      "RemoteHost": "api.github.com",
-      "RemoteUsername": "ropensci",
-      "RemoteRepo": "tinkr",
-      "RemoteRef": "main",
-      "RemoteSha": "a5dd3ddfa235d4a3eb6df78c885d68410ba161c8",
+      "Source": "Repository",
+      "Repository": "RSPM",
       "Requirements": [
         "R6",
         "commonmark",
@@ -929,7 +922,7 @@
         "xslt",
         "yaml"
       ],
-      "Hash": "1dff5f878bfb560fdfe0db0547f75a1d"
+      "Hash": "ce440f84e627b0dd29de4f66fd094887"
     },
     "tinytex": {
       "Package": "tinytex",
