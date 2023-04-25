@@ -539,13 +539,10 @@
     },
     "pegboard": {
       "Package": "pegboard",
-      "Version": "0.5.2",
+      "Version": "0.5.3",
       "Source": "Repository",
-      "Repository": "https://carpentries.r-universe.dev",
+      "Repository": "carpentries",
       "Remotes": "ropensci/tinkr",
-      "RemoteUrl": "https://github.com/carpentries/pegboard",
-      "RemoteRef": "0.5.2",
-      "RemoteSha": "d19ac71c590ad9a56a8e5547be02c19663b4a5d6",
       "Requirements": [
         "R6",
         "commonmark",
@@ -557,7 +554,7 @@
         "xslt",
         "yaml"
       ],
-      "Hash": "215688644a067c74df97597fc08459a4"
+      "Hash": "4319df2b14210d328dbf2c523eca82eb"
     },
     "pillar": {
       "Package": "pillar",
@@ -618,16 +615,16 @@
     },
     "processx": {
       "Package": "processx",
-      "Version": "3.8.0",
+      "Version": "3.8.1",
       "Source": "Repository",
-      "Repository": "CRAN",
+      "Repository": "RSPM",
       "Requirements": [
         "R",
         "R6",
         "ps",
         "utils"
       ],
-      "Hash": "a33ee2d9bf07564efb888ad98410da84"
+      "Hash": "d75b4059d781336efba24021915902b4"
     },
     "promises": {
       "Package": "promises",
@@ -646,14 +643,14 @@
     },
     "ps": {
       "Package": "ps",
-      "Version": "1.7.4",
+      "Version": "1.7.5",
       "Source": "Repository",
-      "Repository": "CRAN",
+      "Repository": "RSPM",
       "Requirements": [
         "R",
         "utils"
       ],
-      "Hash": "d88be14c6790aa6fd7b27a2079a45a85"
+      "Hash": "709d852d33178db54b17c722e5b1e594"
     },
     "purrr": {
       "Package": "purrr",
