@@ -739,13 +739,13 @@
     },
     "sandpaper": {
       "Package": "sandpaper",
-      "Version": "0.11.16",
+      "Version": "0.12.2",
       "Source": "Repository",
       "Repository": "https://carpentries.r-universe.dev",
       "Remotes": "ropensci/tinkr, carpentries/pegboard, carpentries/varnish",
       "RemoteUrl": "https://github.com/carpentries/sandpaper",
-      "RemoteRef": "0.11.16",
-      "RemoteSha": "6989c39f4482b51c22c8ceb38146d08ed8ca4069",
+      "RemoteRef": "0.12.2",
+      "RemoteSha": "e049976fa2dae573b2dd1766f2c56a49959be163",
       "Requirements": [
         "assertthat",
         "callr",
@@ -771,7 +771,7 @@
         "whisker",
         "yaml"
       ],
-      "Hash": "ad0d92529aacbbe03b795f4dd41aa48f"
+      "Hash": "a9824bb57ce18cf8fddd509f8e13654b"
     },
     "sass": {
       "Package": "sass",
@@ -836,10 +836,10 @@
     },
     "sys": {
       "Package": "sys",
-      "Version": "3.4.1",
+      "Version": "3.4.2",
       "Source": "Repository",
       "Repository": "RSPM",
-      "Hash": "34c16f1ef796057bfa06d3f4ff818a5d"
+      "Hash": "3a1be13d68d47a8cd0bfd74739ca1555"
     },
     "systemfonts": {
       "Package": "systemfonts",
